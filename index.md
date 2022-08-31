@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-```markdown 2
+```markdown
 # Raunak's First CS193 Homework
 - I really like how the instructors in CS193 care enough to make sure everyone in the class gets along
 - I really like how the instructors incorporate some fun activities during the lecture to give us a break from the stress of attending multiple lectures 
