@@ -18,7 +18,7 @@ Syntax highlighted code block
 # Here is some information
 1. **Don't do me like that fr
 2. `System.out.println("Hello World!");`
-3. https://www.youtube.com/(url)
+3. [https://www.youtube.com/]
 
 - Bulleted
 - List
