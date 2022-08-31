@@ -16,9 +16,9 @@ Syntax highlighted code block
 ### Header 3
 
 # Here is some information
-1. **Don't do me like that fr**
-2. 'System.out.println("Hello World!");'
-3. [https://www.youtube.com/](url)
+1. **Don't do me like that fr
+2. `System.out.println("Hello World!");`
+3. https://www.youtube.com/(url)
 
 - Bulleted
 - List
