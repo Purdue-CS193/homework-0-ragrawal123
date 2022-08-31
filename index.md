@@ -15,11 +15,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-# Here is some information
-1. **Don't do me like that fr**
-2. `System.out.println("Hello World!");`
-3. [https://www.youtube.com/]
-
 - Bulleted
 - List
 
@@ -30,7 +25,12 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+```markdown 2
+# Raunak's First CS193 Homework
+- I really like how the instructors in CS193 care enough to make sure everyone in the class gets along
+- I really like how the instructors incorporate some fun activities during the lecture to give us a break from the stress of attending multiple lectures 
+- I actually really like the CS193 class in general because it will teach me a lot of stuff that is useful in computer science that I did not know before such as terminal commands etc. that will make my life easier as a computer scientist
+```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
